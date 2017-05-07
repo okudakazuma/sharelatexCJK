@@ -1,0 +1,1 @@
+sharelatex:/var/www/sharelatex/clsi/app/coffee/LatexRunner.coffee

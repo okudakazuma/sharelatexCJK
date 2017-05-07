@@ -2,4 +2,5 @@
 #
 #  Script for clearing docker image 
 #
+cd ./docker
 docker exec sharelatex /bin/bash -c "cd /var/www/sharelatex; grunt user:create-admin --email ${1}"
