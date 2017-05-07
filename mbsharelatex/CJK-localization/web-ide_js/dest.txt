@@ -1,1 +1,0 @@
-/var/www/sharelatex/web/public/minjs/ide.js

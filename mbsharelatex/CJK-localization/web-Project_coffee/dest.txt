@@ -1,1 +1,0 @@
-/var/www/sharelatex/web/app/coffee/models/Project.coffee

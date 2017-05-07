@@ -1,1 +1,0 @@
-/var/www/sharelatex/web/app/coffee/Features/Compile/ClsiManager.coffee
